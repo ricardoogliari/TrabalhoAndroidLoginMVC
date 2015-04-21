@@ -1,4 +1,10 @@
-package com.example.trabalhoandroidloginmvc;
+package com.example.trabalhoandroidloginmvc.fragment;
+
+import com.example.trabalhoandroidloginmvc.R;
+import com.example.trabalhoandroidloginmvc.R.drawable;
+import com.example.trabalhoandroidloginmvc.R.id;
+import com.example.trabalhoandroidloginmvc.R.layout;
+import com.example.trabalhoandroidloginmvc.R.string;
 
 import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;

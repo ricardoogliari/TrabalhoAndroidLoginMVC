@@ -1,5 +1,7 @@
 package com.example.trabalhoandroidloginmvc;
 
+import com.example.trabalhoandroidloginmvc.fragment.NavigationDrawerFragment;
+
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
