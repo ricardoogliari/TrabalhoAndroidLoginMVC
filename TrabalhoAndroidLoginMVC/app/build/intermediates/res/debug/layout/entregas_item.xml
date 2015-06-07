@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent" android:layout_height="match_parent">
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@android:color/white" android:padding="16dp" android:gravity="center">
 
+    <TextView
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bairro" android:text="LAPA" android:layout_marginRight="16dp"/>
+
+    <TextView
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/numero_pedido"
+        android:layout_toRightOf="@+id/bairro" android:text="1234567890" android:layout_marginRight="16dp"/>
+
+    <LinearLayout
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/numero_pedido"
+        android:id="@+id/periodo_linear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_toLeftOf="@id/image_arrow" android:layout_marginRight="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="HOJE" />
+
+        <TextView
+            android:id="@+id/periodo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10h-12h" />
+    </LinearLayout>
+    <ImageView
+        android:layout_centerVertical="true"
+        android:id="@+id/image_arrow"
+        android:layout_alignParentRight="true"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/arrow_down"/>
 </RelativeLayout><!-- From: file:/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/src/main/res/layout/entregas_item.xml -->
