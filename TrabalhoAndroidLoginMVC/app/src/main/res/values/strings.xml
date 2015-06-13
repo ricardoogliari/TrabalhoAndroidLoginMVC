@@ -26,4 +26,9 @@
         <item>Alterar Senha</item>
         <item>Logout</item>
     </string-array>
+    <string name="url_entregas">http://1-dot-fiapmbaroupas.appspot.com/GetEntregaJDO</string>
+    <string name="url_cancelamento">http://1-dot-fiapmbaroupas.appspot.com/GetCancelamentoJDO</string>
+    <string name="url_cliente">http://1-dot-fiapmbaroupas.appspot.com/GetClienteJDO</string>
+    <string name="url_motivo_nao_entrega">http://1-dot-fiapmbaroupas.appspot.com/GetMotivoNaoEntregaJDO</string>
+    <string name="url_usuario">http://1-dot-fiapmbaroupas.appspot.com/GetUsuarioJDO</string>
 </resources>

@@ -2,11 +2,214 @@
 <items version="2" >
 
     <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-0ed34610bf2253945361029ec49f10fcbf13979d.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/.gradle/caches/modules-2/files-2.1/com.navercorp.volleyextensions/volley-caches/2.0.0/66820872bec48b799f3e896d9f75cbde2093f63d/volley-caches-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66820872bec48b799f3e896d9f75cbde2093f63d">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/volley-caches-2.0.0-0a458186544a0c8175d5797b05bffbe56b8276fa.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-88d436ac413cdee303d1c7acbaab9d1f4e8acf17.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-379cc2435558c4da05f84c71b418b77f483cac3c.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-85ff316090c0dc43a59eded5781ccb0954d5d2ae.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-06bb752eab58fbb7f530fa4941d9fdf5a53887c8.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-196b04aa3e845f47d00fdcbe87cb898a527f8bf3.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-a915e5df63901eb2a320ae6e6f7135c52204b40a.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-d004aca1d509dbd2c4ea80a61664fe50fadc5964.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-bde0a50922fd7ba29532fca1ea54039fa91bc6dd.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-1b7a3b297f5446e00e7d1e38605cbf7a3fceb3e0.jar" />
+    </item>
+    <item
         jar="/Users/thaisandrade/AndroidStudioProjects/TrabalhoAndroidLoginMVC1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
         <dex dex="/Users/thaisandrade/AndroidStudioProjects/TrabalhoAndroidLoginMVC1/app/build/intermediates/pre-dexed/debug/classes-a4c70da3073fccc65379473ffe9ce102d5245cc7.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-ef03678c6872e37264c9ffc632102b0da0d96e08.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-26112b4843dbb489fa074cc7dd3ae66ac496dd8c.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-82a714998416e093a304a35b5cf241432f1397a4.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-58f920d467f46ffd97f04fd03415472b07813b5f.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-f38d242509abe857b4944e9459fd6ffd7ac8fe44.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.2/d1cfcc430498440da1017116394e0098aff03aa8/library-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1cfcc430498440da1017116394e0098aff03aa8">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/library-1.0.2-b8839783cb49b58b0e73d1f11f09e16524cd9b8a.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-86105d14762a1b1744a8a9c35d52a08cab99b314.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-392c1aa4608fdfe60b344cd1dbbffe346a967c04.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-24a122e4a8314cbed23f52fdb8765e68e8f6371e.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-b41f11ecc14697cad3162829f7c429f326f7dc9b.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-a17c5854c79d1200fd1b2507f032696c9bfbcc53.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/.gradle/caches/modules-2/files-2.1/com.navercorp.volleyextensions/volley-extensions-common-utils/2.0.0/9fb1f046195cd3154fdefdf5cb6b11749abec6d8/volley-extensions-common-utils-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9fb1f046195cd3154fdefdf5cb6b11749abec6d8">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/volley-extensions-common-utils-2.0.0-96c7df73c7fd7c03cab30c6ceb049ca7739c30a0.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-2c35681e01d54042fd467fbd228245e94eb6b6af.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-bd925af36069aea7aaec12be852ecfd2ad0a9eca.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-f821107c25f339eb3865bcc847faa923fa29dd10.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-11f686b3728aafbdd68d73819576ce83698ba16e.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/classes-063d99eacf637b99d923857e6fe8736057f17740.jar" />
+    </item>
+    <item
+        jar="/Users/thaisandrade/.gradle/caches/modules-2/files-2.1/com.navercorp.volleyextensions/volley-requests/2.0.0/5c59fff9e73d832acc2c4538fe9056b454812e14/volley-requests-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c59fff9e73d832acc2c4538fe9056b454812e14">
+        <dex dex="/Users/thaisandrade/fiapRoupasAndroid/fiapRoupasAndroid/TrabalhoAndroidLoginMVC/app/build/intermediates/pre-dexed/debug/volley-requests-2.0.0-3db7977db2eec423f3ccd5a4c8e178c6bb9a3531.jar" />
     </item>
     <item
         jar="/Users/thaisandrade/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
