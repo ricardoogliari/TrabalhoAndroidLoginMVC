@@ -31,4 +31,5 @@
     <string name="url_cliente">http://1-dot-fiapmbaroupas.appspot.com/GetClienteJDO</string>
     <string name="url_motivo_nao_entrega">http://1-dot-fiapmbaroupas.appspot.com/GetMotivoNaoEntregaJDO</string>
     <string name="url_usuario">http://1-dot-fiapmbaroupas.appspot.com/GetUsuarioJDO</string>
+    <string name="title_activity_entrega_detalhe">EntregaDetalheActivity</string>
 </resources>

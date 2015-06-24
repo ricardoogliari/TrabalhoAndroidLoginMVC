@@ -1,8 +1,10 @@
 package com.example.trabalhoandroidloginmvc.adapter;
 
 import java.util.List;
+import java.util.Objects;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,6 +13,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.trabalhoandroidloginmvc.EntregaDetalheActivity;
 import com.example.trabalhoandroidloginmvc.R;
 
 import com.example.trabalhoandroidloginmvc.bean.Entrega;
@@ -54,24 +57,16 @@ public class EfetuarEntregaAdapter extends BaseExpandableListAdapter {
             holder.email = (TextView) convertView.findViewById(R.id.email);
             holder.buttonMapa = (Button) convertView.findViewById(R.id.button_mapa);
             holder.buttonSelecionar = (Button) convertView.findViewById(R.id.button_selecionar);
+            holder.buttonMapa.setOnClickListener(new OnMapaClick());
+            holder.buttonSelecionar.setOnClickListener(new OnSelecionarClick());
 
             convertView.setTag(holder);
         } else {
             holder = (ChildHolder) convertView.getTag();
         }
 
-        holder.buttonMapa.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                // todo
-            }
-        });
-        holder.buttonSelecionar.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                //todo
-            }
-        });
+        holder.buttonSelecionar.setTag(store.getId());
+        holder.buttonMapa.setTag(store.getId());
 
         return convertView;
 	}
@@ -155,5 +150,27 @@ public class EfetuarEntregaAdapter extends BaseExpandableListAdapter {
         TextView email;
         Button buttonMapa;
         Button buttonSelecionar;
+    }
+
+    class OnSelecionarClick implements View.OnClickListener{
+        @Override
+        public void onClick(View v) {
+            String id = v.getTag().toString();
+            Intent intent = new Intent(context, EntregaDetalheActivity.class);
+            intent.putExtra("id", id);
+            context.startActivity(intent);
+        }
+    }
+
+    class OnMapaClick implements View.OnClickListener{
+        @Override
+        public void onClick(View v) {
+            // todo
+            // Abrir mapa com directions
+            String id = v.getTag().toString();
+            Intent intent = new Intent(context, EntregaDetalheActivity.class);
+            intent.putExtra("id", id);
+            context.startActivity(intent);
+        }
     }
 }

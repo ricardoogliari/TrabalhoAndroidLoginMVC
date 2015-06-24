@@ -1,0 +1,119 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.trabalhoandroidloginmvc.EntregaDetalheActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Como programar java" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Valor" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Efetuar Entrega" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/title_dados"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dados do Cliente" />
+
+        <EditText
+            android:id="@+id/nome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_dados"
+            android:hint="Nome"/>
+
+        <EditText
+            android:id="@+id/cep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/nome"
+            android:hint="CEP"/>
+
+        <Spinner
+            android:id="@+id/tipo_endereco"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/cep"></Spinner>
+
+        <EditText
+            android:id="@+id/logradouro"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tipo_endereco"
+            android:layout_below="@id/cep"
+            android:hint="LOGRADOURO"/>
+
+        <EditText
+            android:id="@+id/numero"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/logradouro"
+            android:layout_below="@id/cep"
+            android:hint="NUMERO"/>
+        <EditText
+            android:id="@+id/complemento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tipo_endereco"
+            android:hint="COMPLEMENTO"/>
+        <EditText
+            android:id="@+id/bairro"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/complemento"
+            android:hint="BAIRRO"/>
+        <EditText
+            android:id="@+id/cidade"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/bairro"
+            android:hint="CIDADE"/>
+        <EditText
+            android:id="@+id/UF"
+            android:layout_toRightOf="@id/cidade"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/bairro"
+            android:hint="UF"/>
+
+        <EditText
+            android:id="@+id/telefone"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/UF"
+            android:hint="TELEFONE"/>
+
+        <EditText
+            android:id="@+id/celular"
+            android:layout_toRightOf="@id/telefone"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/UF"
+            android:hint="CELULAR"/>
+    </RelativeLayout>
+</LinearLayout>

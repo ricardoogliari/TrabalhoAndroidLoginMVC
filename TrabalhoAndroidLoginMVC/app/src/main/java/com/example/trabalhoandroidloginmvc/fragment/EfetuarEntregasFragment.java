@@ -92,6 +92,8 @@ public class EfetuarEntregasFragment extends Fragment {
                         entrega.setDataEntregue(json.getJSONArray("fotoEvidencia"));
                     }*/
                     entregas.add(entrega);
+                    entregas.add(entrega);
+                    entregas.add(entrega);
                     adapter.notifyDataSetChanged();
                 } catch (JSONException e) {
                     e.printStackTrace();
